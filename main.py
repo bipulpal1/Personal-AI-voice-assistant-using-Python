@@ -25,7 +25,7 @@ def takeCommand():
 
 if __name__ == '__main__':
     print('PyCharm')
-    say("Hello I am Jarvis AI")
+    say("Hello I am your personal AI")
 
     while True:
         print("Listening ....")
